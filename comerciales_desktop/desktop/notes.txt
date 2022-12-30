@@ -1,0 +1,26 @@
+
+1 terminar integracion de extraccion y guardado de datos   
+2 terminar interfaz grafica 
+    - mejorar aspecto visual
+    - agregar otra pantalla para visualizar datos de control
+3 agregar funcionalidad de recuperacion de lotes
+4 crear y probar ejecutable
+
+
+Tiempo estimado de terminacion . 3 a 4 semanas
+
+A tener en cuenta:
+    - el ejecutable debera actualizarce cada cierto tiempo porque en el embebido esta incluido el driver y este cambia
+cada cierto tiempo (entre 1 y 3 meses). con cada actualizacion de google habra que cambiarlo
+
+    - Para refrescar la ventana habra que presionar el boton actualizar
+
+    - Funciones a realizar desde la interfaz: 
+        - Iniciar sesion 
+        - el proceso de extraccion
+        -Creacion de nuevos lotes
+
+    - Funciones a realizar desde la pagina:
+    Desde la pagina web se veran los expedientes cargados , la informacion , el seguimiento de errores , y el proceso de recuperacion de lotes fallidos
+    
+ 
